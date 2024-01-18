@@ -6,9 +6,7 @@
     <h3>
         Hi there 👋
     </h3>
-    <p>
-        Recent University Graduate 📚
-    </p>
+    <details>
+        <summary><h3>About Me</h3></summary>
 </div>
-<img height="75" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg"/>
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:7EDEE7,50:BC5EFF,100:E8B158&height=70"/>
