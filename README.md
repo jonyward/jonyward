@@ -1,4 +1,6 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Jonathan+Ward+-+Github+Profile+💻&height=100&section=header&fontSize=35&animation=fadeIn"/>
+</p>
 <h3 align="center">
     Bsc Computing, First Class Honours Graduate, Glasgow Calidonian Univeristy
 </h3>
