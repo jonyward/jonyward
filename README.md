@@ -10,5 +10,5 @@
         Recent University Graduate 📚
     </p>
 </div>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg"/>
+<a src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg"/>
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:7EDEE7,50:BC5EFF,100:E8B158&height=70"/>
