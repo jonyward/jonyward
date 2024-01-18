@@ -10,4 +10,4 @@
         Recent University Graduate 📚
     </p>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?section=footer"/>
