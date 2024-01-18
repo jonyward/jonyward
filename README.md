@@ -12,7 +12,7 @@
     </details>
     <h3>Languages & Skills:</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,java,python,vscode,nodejs,react,bootstrap,django,express,github,docker,kubernetes,opencv,sklearn,anaconda&perline=6" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,java,python,vscode,nodejs,react,bootstrap,django,express,github,docker,kubernetes,opencv,sklearn,anaconda&perline=8" />
     </a>
 </div>
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:7EDEE7,50:BC5EFF,100:E8B158&height=70"/>
